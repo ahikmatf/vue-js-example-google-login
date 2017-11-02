@@ -1,6 +1,6 @@
 # test-analytics
 
-> A Vue.js project
+> A Vue.js project to get google access token
 
 ## Build Setup
 
